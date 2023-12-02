@@ -5,7 +5,7 @@ function toggleMode() {
   const img = document.querySelector("#profile img ")
 
   //subtituir a img
-  if (html.classList.contains("light")) {
+  if (html.classList.contains("")) {
     // se tiver light mode subtituir a imagem
     img.setAttribute("src", "./assets/teste-rubertt.png")
   } else {
