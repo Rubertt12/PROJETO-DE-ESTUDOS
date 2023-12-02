@@ -1,6 +1,4 @@
-
-
-##🍕 Tecnologias 
+##🍕 Tecnologias
 
 Esse projeto foi desenvolvido com as Seguintes tecnologias:
 
@@ -9,5 +7,6 @@ Esse projeto foi desenvolvido com as Seguintes tecnologias:
 - GIT e Github
 - Figma
 
-Projeto 
+## Projeto
+
 Este Projeto de estudos é um agregador de Links para ter como cartão de visitas Online.
