@@ -4,13 +4,12 @@ function toggleMode() {
   //pegar a tag IMG
   const img = document.querySelector("#profile img ")
 
-  function toggleMode() {
-    if (html.classList.contains("")) {
-      // se tiver light mode subtituir a imagem
-      img.setAttribute("src", "./assets/teste-rubertt.png")
-    } else {
-      //se não mantem a imagem
-      img.setAttribute("src", "./assets/rubertt-mergulhador.png")
-    }
+  //subtituir a img
+  if (html.classList.contains("")) {
+    // se tiver light mode subtituir a imagem
+    img.setAttribute("src", "./assets/teste-rubertt.png")
+  } else {
+    //se não mantem a imagem
+    img.setAttribute("src", "./assets/rubertt-mergulhador.png")
   }
 }
